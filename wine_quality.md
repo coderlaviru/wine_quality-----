@@ -453,7 +453,7 @@ plt.show()
 
 
     
-![png](output_9_0.png)
+![png](new_folder/output_9_0.png)
     
 
 
@@ -466,7 +466,7 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+![png](new_folder/output_10_0.png)
     
 
 
@@ -478,7 +478,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](new_folder/output_11_0.png)
     
 
 
@@ -490,7 +490,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](new_folder/output_12_0.png)
     
 
 
@@ -502,7 +502,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+![png](new_folder/output_13_0.png)
     
 
 
@@ -514,7 +514,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![png](new_folder/output_14_0.png)
     
 
 
@@ -526,7 +526,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](new_folder/output_15_0.png)
     
 
 
@@ -538,7 +538,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](new_folder/output_16_0.png)
     
 
 
@@ -550,7 +550,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](new_folder/output_17_0.png)
     
 
 
@@ -562,7 +562,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](new_folder/output_18_0.png)
     
 
 
@@ -580,7 +580,7 @@ sns.kdeplot(wine.query('quality>2').quality)
 
 
     
-![png](output_19_1.png)
+![png](new_folder/output_19_1.png)
     
 
 
@@ -598,7 +598,7 @@ sns.distplot(x=wine["alcohol"])
 
 
     
-![png](output_20_1.png)
+![png](new_folder/output_20_1.png)
     
 
 
@@ -628,7 +628,7 @@ wine.plot(kind="box",subplots=True,layout=(4,4),sharex=False)
 
 
     
-![png](output_21_1.png)
+![png](new_folder/output_21_1.png)
     
 
 
@@ -653,7 +653,7 @@ wine.plot(kind="density",subplots=True,layout=(4,4),sharex=False)
 
 
     
-![png](output_22_1.png)
+![png](new_folder/output_22_1.png)
     
 
 
@@ -665,7 +665,7 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![png](new_folder/output_23_0.png)
     
 
 
@@ -684,7 +684,7 @@ sns.heatmap(corr,annot=True)
 
 
     
-![png](output_24_1.png)
+![png](new_folder/output_24_1.png)
     
 
 
@@ -702,7 +702,7 @@ sns.pairplot(wine)
 
 
     
-![png](output_25_1.png)
+![png](new_folder/output_25_1.png)
     
 
 
@@ -720,7 +720,7 @@ sns.violinplot(x='quality',y='alcohol',data=wine)
 
 
     
-![png](output_26_1.png)
+![png](new_folder/output_26_1.png)
     
 
 
